@@ -12,3 +12,6 @@ playwright-report/
 public/maplibre/
 .firebase/
 public/draco/
+
+.vercel
+.env*
